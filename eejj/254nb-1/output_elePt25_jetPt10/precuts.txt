@@ -1,0 +1,18 @@
+################################## Preliminary Cut Values ###################################################################
+########################### variableName                        value1          value2          value3          value4          level
+### Preliminary cut values: ele_PtCut	      25		-		-		-		-1
+### Preliminary cut values: eleIDType	      5			-		-		-		-1
+### Preliminary cut values: jet_PtCut             10           -                    -               -               -1
+### Preliminary cut values: muon_PtCut            10           -                    -               -               -1
+### Preliminary cut values: jet_ele_DeltaRcut     0.5          -                    -               -               -1
+### Preliminary cut values: muon_jet_DeltaRcut    0.1          -                    -               -               -1
+### Preliminary cut values: muFidRegion           2.1          -                    -               -               -1
+### Preliminary cut values: muNHits_minThresh     11           -                    -               -               -1
+### Preliminary cut values: muTrkD0Maximum        0.2         -                    -               -               -1
+### Preliminary cut values: HLTTrigger            1            8                    -1              -1              -1
+### Preliminary cut values: HLTFromRun	      0		   138409		999999999	999999999	-1
+### Preliminary cut values: eleEta_bar            1.442        -                    -               -               -1
+### Preliminary cut values: eleEta_end            1.560        2.5                  -               -               -1
+### Preliminary cut values: muonEta_bar           1.2          -                    -               -               -1
+### Preliminary cut values: muonEta_end           1.2          2.4                  -               -               -1
+################################## Cuts #####################################################################################
